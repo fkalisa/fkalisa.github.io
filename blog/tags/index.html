@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="wrapper">
+
+    <h1 class="site-nav"><a href="/blog/" style="color: purple">Posts </a> >> <a href="#">Tags</a></h1>
+</div>
+<div>
+    {% for post in site.posts %}
+    {% if post.tags contains 'tags' %}
+
+    <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    {% endif %}
+
+    {% endfor %}
+
+    <p>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <div>

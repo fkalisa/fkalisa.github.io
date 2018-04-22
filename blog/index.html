@@ -1,11 +1,21 @@
 ---
 layout: default
 ---
-<h2><a href="#">All</a> | <a href="#">Algorithm</a> | <a href="#">Technology</a> | <a href="#">Hobbies</a> | <a
-        href="#">Tags</a></h2>
-{% for post in site.posts %}
+<div class="wrapper">
+    <h1 class="site-nav"><a href="#">Blog</a> | <a href="/blog/algorithm/" style="color: purple">Algorithm</a> | <a
+            href="/blog/technology/" style="color: purple">Technology</a>
+        | <a
+                href="/blog/misc/" style="color: purple">Misc</a> | <a
+                href="/blog/tags/" style="color: purple">Tags</a></h1>
+</div>
+
+<div style="display: block"
+     {% for post in site.posts %}
+
 <time>{{ post.date | date: "%b %-d, %Y" }}</time>
 <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+
 {% endfor %}
 
-<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<p>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>
