@@ -2,11 +2,12 @@
 layout: default
 ---
 <div class="wrapper">
-    <h2 class="site-nav"><a href="/blog/" style="color: purple">Posts </a> >> <a href="#">Misc</a></h2>
+
+    <h2 class="site-nav"><a href="/blog/" style="color: purple">Posts </a> >> <a href="#">Book</a></h2>
 </div>
 <div>
     {% for post in site.posts %}
-    {% if post.categories contains 'hobbies' %}
+    {% if post.categories contains 'book' %}
 
     <time>{{ post.date | date: "%b %-d, %Y" }}</time>
     <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
@@ -15,4 +16,4 @@ layout: default
     {% endfor %}
 
     <p>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-</div>
+    <div>
