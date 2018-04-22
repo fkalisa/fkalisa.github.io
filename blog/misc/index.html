@@ -6,7 +6,7 @@ layout: default
 </div>
 <div>
     {% for post in site.posts %}
-    {% if post.categories contains 'hobbies' %}
+    {% if post.categories contains 'miscellaneous' %}
 
     <time>{{ post.date | date: "%b %-d, %Y" }}</time>
     <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
