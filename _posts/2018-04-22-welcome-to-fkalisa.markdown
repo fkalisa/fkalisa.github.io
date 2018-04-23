@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Miscellaneous - Welcome to fkalisa!"
+title:  "Misc - Welcome to fkalisa!"
 date:   2018-04-22 13:17:30 +0200
-categories: miscellaneous
+categories: misc
 ---
-
+<p>
 Hi Everyone,
 
 Welcome to my space where I will be sharing what I am up to. As a software engineer, this space will be about software
 development practices (brown bags, conferences, tutorials, coding dojo, books, projects ...)
 as well as miscellaneous adventures I will come across (travels, events, meetups, ... ).
 
+<!--more-->
 
 Since january 2018, I have taken some resolutions which are :
 
@@ -25,3 +26,4 @@ This will be an opportunity to connect with new people and share the experience 
 </ul>
 
 Girls and Guys, wish me good luck!
+</p>

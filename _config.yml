@@ -24,6 +24,8 @@ twitter_username: akaliza
 github_username:  fkalisa
 linkedin_username: florakalisa
 
+excerpt_separator: <!--more-->
+
 # Build Settings
 sass:
   sass_dir: _sass
