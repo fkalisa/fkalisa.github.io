@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Misc - Welcome to fkalisa!"
-date:   2018-04-22 13:17:30 +0200
-categories: misc
+title: "Misc - Welcome to fkalisa!"
+date: 2018-04-22 13:17:30 +0200
+categories: [misc]
+tags:
 ---
 <p>
 Hi Everyone,

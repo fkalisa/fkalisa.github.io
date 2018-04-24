@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Misc - Professional Communication Workshop"
-date:   2018-04-22 20:30 +0200
-categories: misc
+date: 2018-04-22 20:30 +0200
+categories: [misc]
+tags:
 ---
 
 I had an interesting workshop on basic of professional communication.
