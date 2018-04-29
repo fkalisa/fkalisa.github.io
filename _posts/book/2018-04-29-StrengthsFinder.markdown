@@ -9,6 +9,7 @@ tags:
 In 2016, I did take the StrengthsFinder test and here is the outcome.
 </div>
 <!--more-->
+<br/>
 <div style="float:left; width:75%">
 <table>
 <tr>
@@ -75,11 +76,11 @@ Input
 </div>
 ![My helpful screenshot]({{ "/assets/book/StrengthsFinder.png" | absolute_url }})
 
-
+<br/>
 
 More explanation, please click  [here][StrengthsFinder-docs]
 
-[StrengthsFinder-docs]: https://fkalisa.github.io/assets/book/private/Strengths_Based_Leadership_Insight_Report.pdf
+[StrengthsFinder-docs]: https://fkalisa.github.io/assets/private/Strengths_Based_Leadership_Insight_Report.pdf
 
 
 
