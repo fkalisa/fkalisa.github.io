@@ -4,5 +4,8 @@
 
 layout: default
 ---
-
+<b >"You don't have to be great to get started, but you have to get started to be great." by Les Brown</b>
+<p>
 Coming soon!
+
+</p>

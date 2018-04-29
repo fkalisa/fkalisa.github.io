@@ -6,4 +6,8 @@ categories: [book]
 tags:
 ---
 <!--more-->
+<div>
+</div>
+<div>
 ![My helpful screenshot]({{ "/assets/book/ocp.png" | absolute_url }})
+</div>
