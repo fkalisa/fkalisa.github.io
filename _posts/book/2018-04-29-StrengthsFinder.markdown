@@ -14,7 +14,7 @@ In 2016, I did take the StrengthsFinder test and here is the outcome.
 <table>
 <tr>
 <td>
-`Executing`
+Executing
 </td>
 <td>
 Influencing
