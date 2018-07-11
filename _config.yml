@@ -17,7 +17,7 @@ title: fkalisa
 email: akaliza@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Flora Kalisa, Software Development Engineer, with expertise in analysis and OOP programming
-  (Java, Angular, JPA, JDBC, Spring, REST, JUnit, XHTML, XML, SQL) https://fkalisa.github.io/ fkalisa
+  (Java, Angular, JPA, JDBC, Spring, REST, JUnit, XHTML, XML, SQL) https://github.com/fkalisa
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: akaliza
