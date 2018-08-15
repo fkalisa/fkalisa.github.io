@@ -5,7 +5,11 @@
 layout: default
 ---
 <b >"You don't have to be great to get started, but you have to get started to be great." by Les Brown</b>
-<p>
-Coming soon!
+<p style="float:right">
 
+<img src="https://fkalisa.github.io/assets/images/workingman.jpg"  />
+</p>
+<p>
+
+Coming soon !
 </p>
