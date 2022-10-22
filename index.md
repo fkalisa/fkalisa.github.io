@@ -1,17 +1,29 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
----
-<b >"You don't have to be great to get started, but you have to get started to be great." by Les Brown</b>
+Backend/Server-side Skills :
 
+- REST / GraphQL API development using Java / Spring
+- MySQL / PostgreSQL / Microsoft SQL Server / Oracle Database
+- AWS Data Migration Service (DMS) 
+- MongoDB, DynamoDB
+- RabbitMQ / Kafka 
+- Authentication: Auth0,  AWS Cognito
+- Redis
+- S3
 
-<p style="float:right; width:200px">
+DevOps/ Skills :
 
-<img src="https://fkalisa.github.io/assets/images/workingman.jpg"  />
-</p>
-<p>
+- Docker, CI/CD, Github Actions
+- Deploy and manage Kubernetes using Helm
+- Service Mesh: Istio
 
-Coming soon !
-</p>
+Interest in :
+
+- System design  
+- Data structures
+- ReactJS
+
+Connect with me:
+
+Skype : fkalisa 
+\
+[LinkedIn](https://www.linkedin.com/in/florakalisa/)
