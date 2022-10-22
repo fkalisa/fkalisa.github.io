@@ -1,5 +1,5 @@
 
-Backend/Server-side Skills :
+**Backend/Server-side Skills :**
 
 - REST / GraphQL API development using Java / Spring
 - MySQL / PostgreSQL / Microsoft SQL Server / Oracle Database
@@ -10,19 +10,19 @@ Backend/Server-side Skills :
 - Redis
 - S3
 
-DevOps/ Skills :
+**DevOps/ Skills :**
 
 - Docker, CI/CD, Github Actions
 - Deploy and manage Kubernetes using Helm
 - Service Mesh: Istio
 
-Interest in :
+**Interest in :**
 
 - System design  
 - Data structures
 - ReactJS
 
-Connect with me:
+**Connect with me :**
 
 Skype : fkalisa 
 \
